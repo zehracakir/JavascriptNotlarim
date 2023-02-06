@@ -1,0 +1,10 @@
+{
+ "userName": "fakeUser",
+ "password": 1234,
+ "serverIP": "127.0.0.1",
+ "serverName": "zehracakir.github.com",
+ "isAuth": true,
+ "userID": [1, 2, 3, 4, 5]
+}
+
+//json tanımlarken -> userName ya da 'userName' olarak tanimlama yapilmaz "" kullanilmali
