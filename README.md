@@ -1,7 +1,5 @@
 # Javascript
 
-![Untitled](images/Untitled.png)
-
 ## NodeJS Nedir?
 
 - Node.js, açık kaynaklı, genelde sunucu tarafında çalışan ve ağ bağlantılı uygulamalar için geliştirilmiş bir çalıştırma ortamıdır.
